@@ -1,0 +1,45 @@
+{
+  "permissions": {
+    "read": [
+      
+    ],
+    "admin": [
+      
+    ],
+    "update": [
+      
+    ],
+    "delete": [
+      "habeanf"
+    ]
+  },
+  "user": "habeanf",
+  "consumer": "annotateit",
+  "text": "jfjfj",
+  "tags": [
+    
+  ],
+  "ranges": [
+    {
+      "start": "/div[2]/div[2]/blockquote[1]/p[1]",
+      "end": "/div[3]/div[2]/blockquote[1]/p[1]",
+      "startOffset": 11,
+      "endOffset": 24
+    }
+  ],
+  "quote": "×—×™×œ×•×¤×™×Ÿ ×‘×¨××©×•×ª ×•×¢×“×ª ×”×¤× ×™× ×•×”×’× ×ª ×”×¡×‘×™×‘×” â€“ ×‘×”×ª×× ×œ×¡×¢×™×£ 97 ×™×‘(×) ×œ×ª×§× ×•×Ÿ ×”×›× ×¡×ª.\n2. ×—×™×œ×•×¤×™ ×ž×ž×œ××™ ×ž×§×•× ×§×‘×•×¢×™× ×‘×•×•×¢×“×•×ª ×”×›× ×¡×ª â€“ ×‘×§×©×ª ×¡×™×¢×ª ×©\"×¡.\n        \n        \n            ×”×¦×’×ª ×›×œ ×”×”×¢×¨×•×ª\n            \n        \n        \n      \n      \n        \n    \n      \n      \n      \n      \n        \n            ×—×‘×¨×™ ×”×•×•×¢×“×”\n            \n                Â¶\n            \n        \n        \n            ×™×¨×™×‘ ×œ×•×™×Ÿ â€“ ×”×™×•\"×¨\n×–××‘ ××œ",
+  "uri": "http://localhost:8000/committee/meeting/4090/",
+  "_marginObject": null,
+  "_marginindex": 3,
+  "updated": "2012-07-23T16:08:05.196166+00:00",
+  "links": [
+    {
+      "href": "http://annotateit.org/annotations/mOiFeUiyRLK58cKGDTpCBg",
+      "type": "text/html",
+      "rel": "alternate"
+    }
+  ],
+  "id": "mOiFeUiyRLK58cKGDTpCBg",
+  "created": "2012-07-23T16:08:05.176768+00:00",
+  "undefined": 3
+}

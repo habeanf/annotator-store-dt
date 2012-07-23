@@ -1,0 +1,34 @@
+{
+  "updated": "2012-07-23T16:34:08.065979+00:00", 
+  "links": [
+    {
+      "href": "http://annotateit.org/annotations/DkCGbt93T4WhcYQICgX1Cw", 
+      "type": "text/html", 
+      "rel": "alternate"
+    }
+  ], 
+  "tags": [], 
+  "quote": "\u05d0 \u05de\u05ea", 
+  "ranges": [
+    {
+      "start": "/div[1]/div[2]/blockquote[1]/p[1]", 
+      "end": "/div[1]/div[2]/blockquote[1]/p[1]", 
+      "startOffset": 24, 
+      "endOffset": 28
+    }
+  ], 
+  "user": "habeanf", 
+  "id": "DkCGbt93T4WhcYQICgX1Cw", 
+  "permissions": {
+    "read": [], 
+    "admin": [], 
+    "update": [], 
+    "delete": [
+      "habeanf"
+    ]
+  }, 
+  "created": "2012-07-23T16:34:07.757442+00:00", 
+  "uri": "http://localhost:8000/committee/meeting/4090/", 
+  "text": "afew", 
+  "consumer": "annotateit"
+}
