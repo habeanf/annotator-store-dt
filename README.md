@@ -1,4 +1,4 @@
 annotator-store-dt
 ==================
 
-Annotate store over django and tastypie
+Annotator store over django and tastypie
