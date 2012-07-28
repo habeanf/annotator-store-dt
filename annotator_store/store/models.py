@@ -9,7 +9,7 @@ class Annotation(models.Model):
 	created 	= models.DateTimeField(auto_now_add=True)
 	updated 	= models.DateTimeField(auto_now=True)
 	quote		= models.TextField(help_text="The text being annotated (not the comment itself)")
-	uri		= models.URLField()
+	uri			= models.URLField()
 	user		= models.ForeignKey(User,related_name='annotations')
 	text		= models.CharField(max_length=255)
 	consumer	= models.CharField(max_length=255)
