@@ -1,6 +1,6 @@
 from django.conf.urls import patterns, include, url
 from tastypie.api import Api
-from store.api.resources import AnnotationResource
+from store.api.resources import AnnotationResource,RangeResource,PermissionResource
 
 # Uncomment the next two lines to enable the admin:
 # from django.contrib import admin
@@ -8,6 +8,8 @@ from store.api.resources import AnnotationResource
 
 v1_api = Api(api_name='v1')
 v1_api.register(AnnotationResource())
+v1_api.register(RangeResource())
+v1_api.register(PermissionResource())
 
 urlpatterns = patterns('',
     # Examples:
